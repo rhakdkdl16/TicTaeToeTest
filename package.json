@@ -1,0 +1,25 @@
+{
+  "name": "tictaetoetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "uuidv4": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhakdkdl16/TicTaeToeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhakdkdl16/TicTaeToeTest/issues"
+  },
+  "homepage": "https://github.com/rhakdkdl16/TicTaeToeTest#readme"
+}
